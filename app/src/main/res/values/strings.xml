@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Fingerprint</string>
+    <string name="app_name">指纹识别</string>
+    <string name="fingerprint_recognition_start">开始指纹识别</string>
+    <string name="fingerprint_recognition_cancel">取消指纹识别</string>
+    <string name="fingerprint_recognition_guide_tip">点击“开始指纹识别”按钮</string>
+    <string name="fingerprint_recognition_tip">请进行指纹识别，长按指纹解锁键</string>
+    <string name="fingerprint_recognition_not_support">此设备不支持指纹解锁</string>
+    <string name="fingerprint_recognition_not_supports">此设备未开启密码锁屏</string>
+    <string name="fingerprint_recognition_success">指纹识别成功</string>
+    <string name="fingerprint_recognition_failed">指纹识别失败，请重试！</string>
+    <string name="fingerprint_recognition_error">指纹识别错误，等待几秒之后再重试</string>
+    <string name="fingerprint_recognition_authenticating">指纹识别已经开启，长按指纹解锁键</string>
+    <string name="fingerprint_recognition_unlock_screen">测试密码解锁屏幕</string>
+    <string name="fingerprint_recognition_not_enrolled">您还没有录制指纹，请录入！</string>
+    <string name="fingerprint_not_set_unlock_screen_pws">系统没有设置锁屏密码，请设置！</string>
+    <string name="fingerprint_sys_setting_page">进入系统指纹设置页面</string>
+    <string name="sys_pwd_recognition_success">系统密码识别成功</string>
+    <string name="sys_pwd_recognition_failed">系统密码识别失败</string>
+    <string name="dialog_fingerprint_titile">“中关村银行”的Touch ID</string>
+    <string name="dialog_fingerprint_detail">请验证已有的指纹的登录</string>
+    <string name="cancel">取消</string>
 </resources>
